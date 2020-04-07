@@ -1,2 +1,2 @@
 # HackerEarth-Solutions
-HackerEarth Solutions 
+HackerEarth Problems and their solution 
